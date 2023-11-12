@@ -2,7 +2,7 @@
 
 namespace Fase3.Services
 {
-    public class AuthenticationUserService :  IAuthenticationUserService
+    public class AuthenticationUserService : IAuthenticationUserService
     {
 
         private readonly ApplicationDbcontext _context;
@@ -12,19 +12,18 @@ namespace Fase3.Services
             _context = context;
         }
 
-        bool IAuthenticationUserService.authenticating(string? userName, string? password)
+        bool IAuthenticationUserService.authenticating(string? username, string? password)
         {
 
-            var usuario = _context.Tb_Usuarios.SingleOrDefault(u => u.UserName == userName);
+            var usuario = _context.Tb_Usuarios.SingleOrDefault(u => u.UserName == username);
 
             if (usuario != null)
             {
-                return password == usuario.Password; 
-
+                return username == usuario.UserName && password == usuario.Password;
             }
 
             return false;
-                
+
         }
 
         void IAuthenticationUserService.saveAuthentication(HttpContext context, string userName, string password)
@@ -34,7 +33,7 @@ namespace Fase3.Services
 
         }
 
-        void  IAuthenticationUserService.clearAuthentication(HttpContext context)
+        void IAuthenticationUserService.clearAuthentication(HttpContext context)
         {
             context.Session.Remove("userName");
             context.Session.Remove("password");
