@@ -143,11 +143,11 @@ O JSON a baixo é um exemplo de como a conexão deve ser alterada para casos que
 <br/>
 
 ~~~JSON
-{
+
   "ConnectionStrings": {
-    "DefaultConnection": "Server=MeuServidor; Database=DbUsersMagalu; User Id=MeuUsuario; Password=MinhaSenha;"
-  }
-},
+    "DefaultConnection": "Server=MeuServidor; Database=DbUsersMagalu; User Id=MeuUsuario; Password=MinhaSenha; TrustServerCertificate=True"
+  },
+
 ~~~
 
 
