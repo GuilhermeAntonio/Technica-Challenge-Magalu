@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Magalu";
+    var sessionNameUser = Context.Session.GetString("userName");
+}
+
+<div class="background-user-panel">
+
+    <navbar class="navbar justify-content-between">
+
+        <b class="navbar-brand mr-3">Magalu</b>
+
+        <form class="form-inline mr-2" asp-action="Logout" method="post">
+            
+            <button class="btn my-2 my-sm-0" type="submit">Sair</button>
+       
+        </form>
+
+    </navbar>
+
+    <div class="card-hello">
+
+        <h2>Olá, @sessionNameUser</h2>
+
+        <h1><b>Bem vindo ao Magalu!</b></h1>
+
+        <div class="degrade-logo"></div>
+
+    </div>
+
+</div>

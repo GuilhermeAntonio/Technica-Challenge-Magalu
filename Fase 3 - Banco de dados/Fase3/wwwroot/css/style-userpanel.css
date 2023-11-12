@@ -1,0 +1,61 @@
+.background-user-panel {
+    background-color: #0E87FE;
+    background-image: url("../img/background-user-panel.svg");
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0
+}
+
+.navbar {
+    padding: 0 20px;
+    background-color: #0e87fe;
+    color: white;
+    height: 55px;
+    width: 100%;
+}
+
+.card-hello {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    color: #0e87fe;
+}
+
+.degrade-logo {
+    margin-top: 3px;
+    background: linear-gradient(to right, #FFD100, #FFAA00 12.5%, #FF003D 25%, #FF007C 37.5%, #C60087 50%, #4500D4 62.5%, #0099E1 75%, #00FFFF 87.5%, #90ee90 100%);
+    height: 7px;
+    width: 20%;
+    border-radius: 18px;
+}
+
+.btn {
+    border: 1px solid white;
+    border-radius: 30px;
+    color: white;
+    background-color: transparent;
+    transition: background 0.4s, color 0.4s;
+}
+
+    .btn:hover {
+        background: #fff;
+        color: #0e87fe;
+    }
+
+
+@media only screen and (max-width: 768px) {
+
+    .degrade-logo {
+        margin-top: 3px;
+        background: linear-gradient(to right, #FFD100, #FFAA00 12.5%, #FF003D 25%, #FF007C 37.5%, #C60087 50%, #4500D4 62.5%, #0099E1 75%, #00FFFF 87.5%, #90ee90 100%);
+        height: 7px;
+        width: 70%;
+        border-radius: 18px;
+    }
+
+}

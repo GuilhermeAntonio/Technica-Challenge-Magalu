@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "Magalu";
+    var cookies = Context.Request.Cookies;
+}
+
+@model Fase2.Models.UserModel
+
+<div class="background">
+
+    <div class="container d-flex justify-content-center man text-center">
+
+        <div class="row">
+
+            <div class="col-md-6 col-left d-flex flex-column justify-content-center ">
+
+                <div class="mx-auto">
+
+                    <div class="img"></div>
+
+                </div>
+
+            </div>
+
+            <div class="col-md-6 col-right">
+
+                <form asp-action="login" method="post" class="form-login">
+
+                    @if (ViewData["flag-error"] != null)
+                    {
+
+                        <div id="Incorrect-data-alert" class="alert alert-danger" role="alert">Os dados informados estão incorretos!</div>
+
+                    }
+
+                    <div class="input-field">
+
+                        <input asp-for="UserName" type="text" class="input" id="user" autocomplete="off" required>
+                        <label for="user">Usuário</label>
+
+                    </div>
+
+                    <div class="input-field">
+
+                        <input asp-for="Password" type="password" class="input" id="password" required>
+                        <label for="password" >Senha</label>
+
+                    </div>
+
+                    <div class="input-field">
+
+                        <input type="submit" class="button" value="Entrar"/>
+
+                    </div>
+
+                </form>
+
+            </div>
+        </div>
+
+    </div>
+
+
+</div>

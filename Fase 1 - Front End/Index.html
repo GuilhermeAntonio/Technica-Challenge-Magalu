@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="screen" />
+    <title>Magalu</title>
+</head>
+
+<body>
+
+    <div class="background">
+
+        <div class="container d-flex justify-content-center man text-center">
+
+            <div class="row">
+
+                <div class="col-md-6 col-left d-flex flex-column justify-content-center ">
+                    <div class="mx-auto">
+
+                        <div class="img"></div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-right">
+
+                    <form class="form-login">
+
+                        <div id="alert" class="alert alert-danger" role="alert">Preencha todos os campos!</div>
+
+                        <div class="input-field">
+
+                            <input type="text" class="input" id="user" autocomplete="off" required>
+                            <label>Usuário</label>
+                        </div>
+
+                        <div class="input-field">
+                            <input type="password" class="input" id="password" required>
+                            <label>Senha</label>
+                        </div>
+
+                        <div class="input-field">
+                            <input type="button" onclick="prevalidation()" class="button" value="Entrar" />
+                        </div>
+
+                    </form>
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <script src="js/script.js"></script>
+
+</body>
+
+</html>

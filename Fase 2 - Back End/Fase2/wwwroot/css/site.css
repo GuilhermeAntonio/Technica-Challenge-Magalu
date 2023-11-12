@@ -1,0 +1,21 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+:root {
+    --magalu-blue: #0e87fe;
+    --magalu-gray: rgb(0, 0, 0, 0.2);
+    --magalu-light-gray: #ececec;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}

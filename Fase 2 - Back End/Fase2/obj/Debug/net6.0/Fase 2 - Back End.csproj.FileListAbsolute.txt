@@ -1,0 +1,62 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\bin\Debug\net6.0\appsettings.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\bin\Debug\net6.0\Fase 2 - Back End.staticwebassets.runtime.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\bin\Debug\net6.0\Fase 2 - Back End.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\bin\Debug\net6.0\Fase 2 - Back End.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\bin\Debug\net6.0\Fase 2 - Back End.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\bin\Debug\net6.0\Fase 2 - Back End.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\bin\Debug\net6.0\Fase 2 - Back End.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\Fase 2 - Back End.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\Fase 2 - Back End.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\Fase 2 - Back End.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\Fase 2 - Back End.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\Fase 2 - Back End.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\Fase 2 - Back End.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\Fase 2 - Back End.RazorAssemblyInfo.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\Fase 2 - Back End.RazorAssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\staticwebassets\msbuild.Fase 2 - Back End.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\staticwebassets\msbuild.build.Fase 2 - Back End.props
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fase 2 - Back End.props
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fase 2 - Back End.props
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\scopedcss\bundle\Fase 2 - Back End.styles.css
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\scopedcss\projectbundle\Fase 2 - Back End.bundle.scp.css
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\Fase 2 - Back End.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\refint\Fase 2 - Back End.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\Fase 2 - Back End.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\Fase 2 - Back End.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Fase2\Fase2\obj\Debug\net6.0\ref\Fase 2 - Back End.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\bin\Debug\net6.0\appsettings.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\bin\Debug\net6.0\Fase 2 - Back End.staticwebassets.runtime.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\bin\Debug\net6.0\Fase 2 - Back End.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\bin\Debug\net6.0\Fase 2 - Back End.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\bin\Debug\net6.0\Fase 2 - Back End.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\bin\Debug\net6.0\Fase 2 - Back End.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\bin\Debug\net6.0\Fase 2 - Back End.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\Fase 2 - Back End.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\Fase 2 - Back End.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\Fase 2 - Back End.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\Fase 2 - Back End.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\Fase 2 - Back End.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\Fase 2 - Back End.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\Fase 2 - Back End.RazorAssemblyInfo.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\Fase 2 - Back End.RazorAssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\staticwebassets\msbuild.Fase 2 - Back End.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\staticwebassets\msbuild.build.Fase 2 - Back End.props
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fase 2 - Back End.props
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fase 2 - Back End.props
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\scopedcss\bundle\Fase 2 - Back End.styles.css
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\scopedcss\projectbundle\Fase 2 - Back End.bundle.scp.css
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\Fase 2 - Back End.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\refint\Fase 2 - Back End.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\Fase 2 - Back End.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\Fase 2 - Back End.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Guilherme Bezerra Antonio\Technical Challenge - Magalu\Fase 2 - Back End\Fase2\obj\Debug\net6.0\ref\Fase 2 - Back End.dll
